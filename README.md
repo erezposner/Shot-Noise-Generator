@@ -2,6 +2,7 @@
 # A Practical True Shot Noise Generator
 This repository generates true shot noise while taking into consideration image sensor Full-well and resolution. 
 It is described in Medium article - 'To Be uploaded soon'
+![FDFE](noisy_image.png)
 
 ## Getting Started
 These instructions will explain how to use the Practical True Shot Noise Generator project.
