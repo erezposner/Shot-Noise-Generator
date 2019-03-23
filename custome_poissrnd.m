@@ -1,5 +1,8 @@
 function [n] = custome_poissrnd(lambda)
-
+if lambda==0
+    n=0;
+    return
+end
 c = 0.767 - 3.36/lambda;
 beta = pi/sqrt(3*lambda);
 alpha = beta*lambda;
